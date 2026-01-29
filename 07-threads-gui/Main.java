@@ -1,4 +1,3 @@
-package threading;
 
 import javax.swing.*;
 import java.awt.*;

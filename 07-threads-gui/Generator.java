@@ -1,5 +1,3 @@
-package threading;
-
 public class Generator implements Runnable {
 	
 	private int counter;

@@ -1,7 +1,4 @@
-# CSC 364
-## Introduction to Networked, Distributed, and Parallel Computing
-
-Building upon networking and parallel computing fundamentals, this course explores technologies and techniques for developing distributed systems and scalable architectures.
+Building upon networking and parallel computing fundamentals, this course explores the technologies and techniques used to develop distributed systems and scalable software architectures.
 
 ## Using This Repository
 
